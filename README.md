@@ -4,16 +4,16 @@ I'm making my Portal PSVita Demake and decided to make a pack for **YOU** to por
 
 # Software
 
-[Crafty](https://nemstools.github.io/pages/Crafty-Download.html) - Export maps and models to OBJ format to use in your port
-[GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html) - Decompile-ish game files ([VPK, that's not a vita executable but Valve file format](https://developer.valvesoftware.com/wiki/VPK))
-[VTFEdit](https://nemstools.github.io/pages/VTFLib-Download.html) - Export materials to TGA that you can use in materials
+[Crafty](https://nemstools.github.io/pages/Crafty-Download.html) - Export maps and models to OBJ format to use in your port /n
+[GCFScape](https://nemstools.github.io/pages/GCFScape-Download.html) - Decompile-ish game files ([VPK, that's not a vita executable but Valve file format](https://developer.valvesoftware.com/wiki/VPK)) /n
+[VTFEdit](https://nemstools.github.io/pages/VTFLib-Download.html) - Export materials to TGA that you can use in materials /n
 
-**---Required---**
-[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
-[.NET SDK 5.0](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.402-windows-x64-installer)
-
-# Engine
-
+**---Required---** /n
+[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) /n
+[.NET SDK 5.0](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.402-windows-x64-installer) /n
+/n
+# Engine /n
+/n
 The engine is made on Unity 2017.4.2f2. You can find download files [here](https://pastebin.com/tnuczXJk).
 
 Scripts:
